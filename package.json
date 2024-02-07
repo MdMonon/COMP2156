@@ -1,12 +1,15 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Warning: no test created yet.\""
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "comp2156",
+      "version": "1.0.0",
+      "license": "ISC"
+    }
+  }
 }
+
+
